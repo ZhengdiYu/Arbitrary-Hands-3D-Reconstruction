@@ -9,4 +9,13 @@ This is the official repository of the ACR.
 
 [Paper][Project Page][[Demo1](https://www.youtube.com/watch?v=-HTr_-DLqCg)][[Demo2](https://www.youtube.com/watch?v=ntPdgn47sKw)]
 
-Coming soon!
+## Coming soon!
+## Citation
+```
+@inproceedings{yu2023acr,
+  title = {ACR: Attention Collaboration-based Regressor for Arbitrary Two-Hand Reconstruction},
+  author = {Yu, Zhengdi and Huang, Shaoli and Chen, Fang and Breckon, Toby P.},
+  year = {2023},
+  booktitle = {Conference on Computer Vision and Pattern Recognition}
+}
+```
