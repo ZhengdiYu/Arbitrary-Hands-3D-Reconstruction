@@ -16,6 +16,5 @@ This is the official repository of the ACR.
   title = {ACR: Attention Collaboration-based Regressor for Arbitrary Two-Hand Reconstruction},
   author = {Yu, Zhengdi and Huang, Shaoli and Chen, Fang and Breckon, Toby P.},
   booktitle = {CVPR},
-  year = {2023}
-}
+  year = {2023}}
 ```
