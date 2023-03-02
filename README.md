@@ -1,4 +1,4 @@
-# Arbitrary-Hands-3D-Reconstruction
+# ACR: Attention Collaboration-based Regressor for Arbitrary Two-Hand Reconstruction
 
 
 This is the official repository of the ACR.
