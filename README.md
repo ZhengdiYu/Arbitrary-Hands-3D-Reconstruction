@@ -1,6 +1,6 @@
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]()
 ![code visitors](https://visitor-badge.glitch.me/badge?page_id=ZhengdiYu/Arbitrary-Hands-3D-Reconstruction)
-[![GitHub license](https://img.shields.io/badge/license-Apache2.0-blue.svg)]()
+[![GitHub license](https://img.shields.io/badge/license-Apache2.0-blue.svg)](https://github.com/ZhengdiYu/Arbitrary-Hands-3D-Reconstruction/blob/main/LICENSE)
 
 # ACR: Attention Collaboration-based Regressor for Arbitrary Two-Hand Reconstruction
 
