@@ -20,6 +20,13 @@ This is the official repository of the ACR.
 ## Instructions
 Coming soon!
 
+<!--
+## More qualitative results
+![image](https://user-images.githubusercontent.com/63605407/222917470-0daf33b4-868f-442d-8615-2fba6bf6e719.png)
+-->
+
+## Applications
+
 ## Citation
 ```
 @inproceedings{yu2023acr,
