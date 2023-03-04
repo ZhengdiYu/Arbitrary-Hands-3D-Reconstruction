@@ -14,6 +14,11 @@ This is the official repository of the ACR.
 [Paper][Project Page][[Demo1](https://www.youtube.com/watch?v=-HTr_-DLqCg)][[Demo2](https://www.youtube.com/watch?v=ntPdgn47sKw)]
 
 ## Coming soon!
+
+## News :triangular_flag_on_post:
+
+- [2023/02/27] ACR got accepted by CVPR 2023!
+
 ## Citation
 ```
 @inproceedings{yu2023acr,
