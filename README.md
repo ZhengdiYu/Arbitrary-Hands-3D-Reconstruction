@@ -13,12 +13,12 @@ This is the official repository of the ACR.
 > *Conference on Computer Vision and Pattern Recognition (CVPR), 2023*
 
 [Paper][Project Page]
-
+<!--
 <p float="left">
   <img src="docs/p1.GIF" width="49%" />
   <img src="docs/P2.GIF" width="49%" />
 </p>
-
+-->
 <!--
 [[Demo1](https://www.youtube.com/watch?v=-HTr_-DLqCg)][[Demo2](https://www.youtube.com/watch?v=ntPdgn47sKw)]
 -->
