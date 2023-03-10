@@ -15,9 +15,8 @@ This is the official repository of the ACR.
 [Paper][Project Page]
 
 <p float="left">
-  <img src="docs/p1.gif" width="49%" />
+  <img src="docs/p1.GIF" width="49%" />
   <img src="docs/p2.gif" width="49%" />
-
 </p>
 
 <!--
