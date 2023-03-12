@@ -52,5 +52,6 @@ Coming soon!
   author = {Yu, Zhengdi and Huang, Shaoli and Chen, Fang and Breckon, Toby P.},
   booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
   month     = {June},
-  year      = {2023}}
+  year      = {2023}
+  }
 ```
