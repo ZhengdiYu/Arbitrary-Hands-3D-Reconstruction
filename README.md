@@ -1,4 +1,4 @@
-[![arXiv](https://img.shields.io/badge/arXiv-2303.05938-0.svg)](https://arxiv.org/abs/2303.05938)
+[![arXiv](https://img.shields.io/badge/arXiv-2303.05938-b31b1b.svg)](https://arxiv.org/abs/2303.05938)
 ![code visitors](https://visitor-badge.glitch.me/badge?page_id=ZhengdiYu/Arbitrary-Hands-3D-Reconstruction)
 [![GitHub license](https://img.shields.io/badge/license-Apache2.0-blue.svg)](https://github.com/ZhengdiYu/Arbitrary-Hands-3D-Reconstruction/blob/main/LICENSE)
 
@@ -12,7 +12,7 @@ This is the official repository of the ACR.
 [Zhengdi Yu](https://github.com/ZhengdiYu), [Shaoli Huang](https://scholar.google.com/citations?user=o31BPFsAAAAJ&hl=en&oi=ao), [Chen Fang](http://fangchen.org/), [Toby P. Breckon](https://breckon.org/toby/research/), [Jue Wang](https://juewang725.github.io/)
 > *Conference on Computer Vision and Pattern Recognition (CVPR), 2023*
 
-[[Paper](https://arxiv.org/abs/2303.05938)][Project Page]
+**[[Paper](https://arxiv.org/abs/2303.05938)][[Project Page](https://zhengdiyu.github.io/ACR-page/)]**
 
 
 <p float="left">
@@ -21,7 +21,7 @@ This is the official repository of the ACR.
 </p>
 
 Full videos on below links:
-[[Demo1](https://www.youtube.com/watch?v=-HTr_-DLqCg)][[Demo2](https://www.youtube.com/watch?v=ntPdgn47sKw)]
+**[[Demo1](https://www.youtube.com/watch?v=-HTr_-DLqCg)][[Demo2](https://www.youtube.com/watch?v=ntPdgn47sKw)]**
 
 
 
