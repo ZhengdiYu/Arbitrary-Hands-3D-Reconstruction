@@ -38,14 +38,19 @@ Coming soon!
 ![wild](https://user-images.githubusercontent.com/63605407/224312107-bb102043-80bc-48e3-829d-18248098a623.png)
 
 
-<!--
+
 ## Applications
+<p float="left">
+  <img src="docs/1.gif" width="33%" />
+  <img src="docs/2.gif" width="33%" />
+  <img src="docs/3.gif" width="33%" />
+</p>
+
 
 <p float="left">
-  <img src="docs/p3.GIF" width="49%" />
-  <img src="docs/P4.GIF" width="49%" />
+  <img src="docs/4.gif" width="49.5%" />
+  <img src="docs/5.gif" width="49.5%" />
 </p>
--->
 
 ## Citation
 ```
