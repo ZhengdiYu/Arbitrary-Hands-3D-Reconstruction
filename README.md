@@ -42,7 +42,7 @@ Coming soon!
 ## Applications
 <p float="left">
   <img src="docs/1.gif" width="33%" />
-  <img src="docs/2.gif" width="33%" />
+  <img src="docs/2.gif" width="31%" />
   <img src="docs/3.gif" width="33%" />
 </p>
 
