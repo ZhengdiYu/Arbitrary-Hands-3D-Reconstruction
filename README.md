@@ -34,7 +34,7 @@ conda install -n ACR pytorch==1.10.0 torchvision==0.11.1 cudatoolkit=10.2 -c pyt
 pip install -r requirements.txt
 ```
 
-For rendering and visualization, please consider install `pyrender` or `pytorch3d`. Note that `pyrender` can only be used on desktop.
+For rendering and visualization on headless server, please consider install `pytorch3d`. Note that `pyrender` can only be used on desktop.
 
 ### Pre-trained model and data
 - Register and download [MANO](https://mano.is.tue.mpg.de/) model. Put `MANO_LEFT.pkl` and `MANO_RIGHT.pkl` in `mano/`
