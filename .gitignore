@@ -1,0 +1,17 @@
+src/
+trained_models/
+demos/
+demo/
+demo/videos/
+demo/animation/
+demo/*_results/
+*/__pycache__
+*/*/__pycache__
+*/*/*/__pycache__
+*.log
+active_configs/
+*.jpg
+*MP4
+*mp4
+*zip
+*.png
