@@ -45,7 +45,6 @@ def parse_args(input_args=None):
     mode_group.add_argument('--model_return_loss', type=bool, default=False,help = 'wether return loss value from the model for balanced GPU memory usage')
     mode_group.add_argument('--model_version',type = int,default = 1,help = 'model version')
     mode_group.add_argument('--multi_hand',type = bool,default = True,help = 'whether to make Multi-hand Recovery')
-    mode_group.add_argument('--new_training',type = bool,default = False, help='learning centermap only in first few iterations for stable training.')
     mode_group.add_argument('--perspective_proj',type = bool,default = False,help = 'whether to use perspective projection, else use orthentic projection.')
     mode_group.add_argument('--FOV',type = float,default = 22.5, help = 'The camera field of view (eular angle) used for visualization')
     mode_group.add_argument('--focal_length',type=float, default = 1265, help = 'Default focal length, adopted from JTA dataset')
@@ -175,7 +174,6 @@ def parse_args(input_args=None):
 
     mano_group.add_argument('--mano_uvmap',type = str,default = os.path.join(model_dir, 'parameters', 'mano_vt_ft.npz'),help = 'mano UV Map coordinates for each vertice')
     mano_group.add_argument('--wardrobe', type = str, default=os.path.join(model_dir, 'wardrobe'), help = 'path of mano UV textures')
-    mano_group.add_argument('--mesh_cloth',type = str,default = '031',help = 'pick up cloth from the wardrobe or simplely use a single color')
 
     mano_group.add_argument('--lr_test',type = float, default = 0.1,help = 'path to nvxia model')
 
