@@ -34,7 +34,7 @@ conda install -n ACR pytorch==1.10.0 torchvision==0.11.1 cudatoolkit=10.2 -c pyt
 pip install -r requirements.txt
 ```
 
-For rendering and visualization on headless server, please consider install `pytorch3d` follow [the official instruction](https://github.com/facebookresearch/pytorch3d/blob/main/INSTALL.md). Note that `pyrender` can only be used on desktop.
+For rendering and visualization on headless server, please consider install `pytorch3d` follow [the official instruction](https://github.com/facebookresearch/pytorch3d/blob/main/INSTALL.md) and set `renderer` to `pytorch3d` in `configs/demo.yml`. Note that `pyrender` can only be used on desktop.
 
 ### Pre-trained model and data
 - Register and download [MANO](https://mano.is.tue.mpg.de/) model. Put `MANO_LEFT.pkl` and `MANO_RIGHT.pkl` in `mano/`
@@ -51,10 +51,10 @@ python -m acr.main --demo_mode webcam -t
 python -m acr.main --demo_mode image --inputs <PATH_TO_IMAGE>
 
 # Run on a folder of images:
-python -m acr.main --demo_mode folder -t --inputs <PATH_TO_IMAGE> 
+python -m acr.main --demo_mode folder -t --inputs <PATH_TO_FOLDER> 
 
 # Run on a video:
-python -m acr.main --demo_mode video -t --inputs <PATH_TO_IMAGE> 
+python -m acr.main --demo_mode video -t --inputs <PATH_TO_VIDEO> 
 ```
 
 Finally, the visualization will be saved in `demos_outputs/`. In `video` or `folder` mode, the results will also be saved as `<FILENAME>_output.mp4`.
