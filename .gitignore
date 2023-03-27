@@ -9,7 +9,7 @@ demo/*_results/
 */*/__pycache__
 */*/*/__pycache__
 *.log
-active_configs/
+active_configs/*
 *.jpg
 *MP4
 *mp4
