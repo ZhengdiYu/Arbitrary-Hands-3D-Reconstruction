@@ -1,10 +1,6 @@
 src/
-trained_models/
-demos/
-demo/
-demo/videos/
-demo/animation/
-demo/*_results/
+checkpoints/
+demos_outputs/
 */__pycache__
 */*/__pycache__
 */*/*/__pycache__

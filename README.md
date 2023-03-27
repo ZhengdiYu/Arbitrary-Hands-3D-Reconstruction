@@ -41,7 +41,7 @@ For rendering and visualization on headless server, please consider install `pyt
 - Download pre-trained weights from [here](https://drive.google.com/file/d/1aCeKMVgIPqYjafMyUJsYzc0h6qeuveG9/view?usp=share_link) and put it in `checkpoints/`
 
 ## Demo
-Note: use `-t` to smooth your results.
+Note: use `-t` to smooth your results. We provide examples in `demos/`
 
 ```
 # Run a real-time demo:
