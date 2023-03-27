@@ -38,7 +38,7 @@ For rendering and visualization on headless server, please consider install `pyt
 
 ### Pre-trained model and data
 - Register and download [MANO](https://mano.is.tue.mpg.de/) model. Put `MANO_LEFT.pkl` and `MANO_RIGHT.pkl` in `mano/`
-- Download pre-trained weights from [here](https://drive.google.com/file/d/1aCeKMVgIPqYjafMyUJsYzc0h6qeuveG9/view?usp=share_link) and put it in `checkpoints/`
+- Download pre-trained weights from [here](https://drive.google.com/file/d/1aCeKMVgIPqYjafMyUJsYzc0h6qeuveG9/view?usp=share_link) (update on 3.28) and put it in `checkpoints/` 
 
 ## Demo
 Note: use `-t` to smooth your results. We provide examples in `demos/`
