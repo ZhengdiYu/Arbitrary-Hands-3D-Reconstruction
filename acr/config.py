@@ -238,6 +238,7 @@ class ConfigContext(object):
         # if a yaml is left over here, remove it
         self.clean()
         # store all the parsed_args in a yaml file
+        os.makedirs(os.path.dirname(self.yaml_filename), exist_ok=True)
         with open(self.yaml_filename, 'w') as f:
             d = self.parsed_args.__dict__
             yaml.dump(d, f)
@@ -247,7 +248,7 @@ class ConfigContext(object):
         # if a yaml is left over here, remove it
         self.yaml_filename = filepath
         self.clean()
-        os.makedirs(os.path.dirname(self.yaml_filename))
+        os.makedirs(os.path.dirname(self.yaml_filename), exist_ok=True)
         # store all the parsed_args in a yaml file
         with open(self.yaml_filename, 'w') as f:
             d = self.parsed_args.__dict__
