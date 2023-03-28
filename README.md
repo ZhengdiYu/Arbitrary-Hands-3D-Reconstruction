@@ -90,7 +90,7 @@ Finally, the visualization will be saved in `demos_outputs/`. In `video` or `fol
 ```
 
 ## Acknowledgement
-The pytorch implementation of MANO is based on [manopth](https://github.com/hassony2/manopth). We use some parts of the great code from [ROMP](https://github.com/Arthur151/ROMP/). We thank all the authors for their impressive works!
+The pytorch implementation of MANO is based on [manopth](https://github.com/hassony2/manopth). We use some parts of the great code from [ROMP](https://github.com/Arthur151/ROMP/). For MANO segmentation and rendering, we follow [zc-alexfan](https://github.com/zc-alexfan/render_mano_ih).We thank all the authors for their impressive works!
 
 ## Contact
 For technical questions, please contact zhengdi.yu@durham.ac.uk or ZhengdiYu@hotmail.com
