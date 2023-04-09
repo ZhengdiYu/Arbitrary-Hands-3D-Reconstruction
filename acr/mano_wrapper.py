@@ -17,7 +17,7 @@ class MANOWrapper(nn.Module):
         self.mano_layer=nn.ModuleDict({
             'r':ManoLayer(
                     ncomps=45,
-                    center_idx=args().align_idx if args().mano_mesh_root_align else None,#9, # TODO: 1. wrist align? root align ? 0 or 9?
+                    center_idx=args().align_idx if args().mano_mesh_root_align else None,
                     side='right',
                     mano_root='mano/',
                     use_pca=False,
@@ -25,7 +25,7 @@ class MANOWrapper(nn.Module):
                 ),
             'l':ManoLayer(
                     ncomps=45,
-                    center_idx=args().align_idx if args().mano_mesh_root_align else None,#9, # TODO: 1. wrist align? root align ? 0 or 9?
+                    center_idx=args().align_idx if args().mano_mesh_root_align else None,
                     side='left',
                     mano_root='mano/',
                     use_pca=False,
