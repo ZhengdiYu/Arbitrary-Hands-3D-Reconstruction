@@ -12,7 +12,7 @@ This is the official repository of the ACR.
 [Zhengdi Yu](https://github.com/ZhengdiYu), [Shaoli Huang](https://scholar.google.com/citations?user=o31BPFsAAAAJ&hl=en&oi=ao), [Chen Fang](http://fangchen.org/), [Toby P. Breckon](https://breckon.org/toby/research/), [Jue Wang](https://juewang725.github.io/)
 > *Conference on Computer Vision and Pattern Recognition (CVPR), 2023*
 
-**[[Paper](https://arxiv.org/abs/2303.05938)][[Project Page](https://semanticdh.github.io/ACR/)][[Video]([https://youtu.be/WKRkm3Tfn3s](https://www.youtube.com/watch?v=wTPqojwLew0&t=130s))]**
+**[[Paper](https://arxiv.org/abs/2303.05938)][[Project Page](https://semanticdh.github.io/ACR/)][[Video](https://www.youtube.com/watch?v=wTPqojwLew0)]**
 
 <p float="left">
   <img src="docs/p1.GIF" width="49%" />
